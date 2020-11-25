@@ -11,7 +11,7 @@ An IDE that can be used to run HTML, CSS and Bootstrap. Download the folder from
 
 Contributing
 
-This project is not large or important and is more to showcase what I have learnt, however feedback and advice is more than welcome through my email!
+This project is not large or important and is more to showcase what I have learnt, however feedback and advice is more than welcome!
 
 License
 
@@ -21,7 +21,7 @@ Citation
 
 Contact
 
-You are welcome to contact me through linkedin and send me a message. Any other enquiries or opportunities please email me which can be found on my linkedin profile.
+You are welcome to contact me through Linkedin and send me a message. Any other enquiries or opportunities please email me or contact me through my linkedin profile.
 https://www.linkedin.com/in/george-brackpool-384ba71a2/
 
 
